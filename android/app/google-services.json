@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224246759852",
+    "project_id": "anngon-66a1c",
+    "storage_bucket": "anngon-66a1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224246759852:android:80086b4ac70f8c618cba09",
+        "android_client_info": {
+          "package_name": "com.phenikaa.anNgon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRacGhlriaGj2X_m6Vy9TrOBVro3_ANUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
